@@ -1,16 +1,16 @@
-# newproject
+An Ecommerce App built with flutter
 
-A new Flutter project.
+# This app includes:
+- A Welcome Slider
+- Home Page
+- Bottom Navigtaion Bar
+- Products Page with Categories Filters
+- Products Detail Page
+- Favourite Products Functionality
+- Add to Cart and Place Order Functionality
 
-## Getting Started
+## Here is the Overview of what the app looks like:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/FaiqaYousuf/E-Commerce-Store/assets/136577897/216fb9dd-331a-4da8-92f3-9f27632fc6ca
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
